@@ -9,4 +9,6 @@ button:hover {
     background-color: rgb(2, 49, 10);
     
 }
-
+nav {
+  background-color: black;
+}
