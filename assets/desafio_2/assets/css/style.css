@@ -1,0 +1,69 @@
+body{
+    background-color: darkslategrey;
+    background-image: url(../img/82c477250961f5db6809ecbde1bc2824.jpg);
+    background-size: 13em;
+}
+.header {
+    background-color: white;
+    color: darkolivegreen;
+    background-image: url(../img/8a64ce5dfb0f6ffd2c84b158cb0e84ff.jpg);
+    background-position: right;
+    background-size:12% ;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-left: 2.5em;
+    padding: 0;
+    padding-left: 5em;
+    height: 6em;
+    width: 54em;
+    font-size: 2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header h1 {
+    margin: 0px;
+    padding-left: 4em;
+    padding-bottom: 0;
+}
+
+.header p {
+    
+    padding-left: 7em;
+    font-weight: 600;
+
+}
+.product {
+    color: rgb(9, 15, 2);
+    margin: 10em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 0;
+    padding: 0;
+    font-size: 1.2em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+
+
+}
+table {
+    margin: 2em;
+    margin-left: -10em;
+
+}
+
+.footer {
+    background-color: rgb(74, 95, 78);
+    color: white;
+    font-size: 1.1em;
+    padding: 1.3em;
+    padding-left: 9em;
+    margin: 0;
+
+}
+.footer table {
+    background-color: rgb(74, 95, 78);
+    color: white;
+    font-size: 1.1em;
+    padding-left: 9em;
+    margin: 0;
+   
+}

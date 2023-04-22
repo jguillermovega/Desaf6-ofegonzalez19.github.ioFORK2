@@ -1,0 +1,43 @@
+
+header {
+    font-family: 'roboto', sans-serif;
+    font-size: 1.3rem;
+}
+main {
+    font-family: 'roboto-', sans-serif;
+    font-size: 1rem;
+}
+.container-fluid {
+    max-width: 100rem;
+}
+.card {
+    max-width: 20rem;
+    max-height: 20rem;
+}
+
+.btn {
+    font-family: 'roboto', sans-serif;
+    font-size: 1.3rem;
+}
+form {
+    font-family: 'roboto-', sans-serif;
+    font-size: 1.1rem;
+    max-height: 28rem;
+}
+button {
+    display: block; 
+    margin: 0 auto; 
+    margin-top: 2rem;
+    transform: translateY(-50%); 
+}
+img {
+    height: 35rem;
+}
+.card:hover {
+background-color: rgb(187, 60, 60);
+color: white;
+}
+
+  
+  
+  
